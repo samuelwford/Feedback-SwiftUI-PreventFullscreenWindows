@@ -11,6 +11,7 @@
 		32B6B8F9267248B600F7B898 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B6B8F8267248B600F7B898 /* ContentView.swift */; };
 		32B6B8FB267248B800F7B898 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32B6B8FA267248B800F7B898 /* Assets.xcassets */; };
 		32B6B8FE267248B800F7B898 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32B6B8FD267248B800F7B898 /* Preview Assets.xcassets */; };
+		32B6B90726724A5600F7B898 /* NSWindowReader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32B6B90626724A5600F7B898 /* NSWindowReader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		32B6B8FD267248B800F7B898 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		32B6B8FF267248B800F7B898 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32B6B900267248B800F7B898 /* Feedback_SwiftUI_PreventFullscreenWindows.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Feedback_SwiftUI_PreventFullscreenWindows.entitlements; sourceTree = "<group>"; };
+		32B6B90626724A5600F7B898 /* NSWindowReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSWindowReader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				32B6B8FF267248B800F7B898 /* Info.plist */,
 				32B6B900267248B800F7B898 /* Feedback_SwiftUI_PreventFullscreenWindows.entitlements */,
 				32B6B8FC267248B800F7B898 /* Preview Content */,
+				32B6B90626724A5600F7B898 /* NSWindowReader.swift */,
 			);
 			path = "Feedback-SwiftUI-PreventFullscreenWindows";
 			sourceTree = "<group>";
@@ -142,6 +145,7 @@
 			files = (
 				32B6B8F9267248B600F7B898 /* ContentView.swift in Sources */,
 				32B6B8F7267248B600F7B898 /* Feedback_SwiftUI_PreventFullscreenWindowsApp.swift in Sources */,
+				32B6B90726724A5600F7B898 /* NSWindowReader.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
