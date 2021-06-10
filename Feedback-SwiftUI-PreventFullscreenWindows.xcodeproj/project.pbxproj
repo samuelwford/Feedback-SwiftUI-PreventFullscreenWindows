@@ -23,6 +23,7 @@
 		32B6B8FF267248B800F7B898 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		32B6B900267248B800F7B898 /* Feedback_SwiftUI_PreventFullscreenWindows.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Feedback_SwiftUI_PreventFullscreenWindows.entitlements; sourceTree = "<group>"; };
 		32B6B90626724A5600F7B898 /* NSWindowReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSWindowReader.swift; sourceTree = "<group>"; };
+		32B6B96B2672AB6E00F7B898 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		32B6B8EA267248B600F7B898 = {
 			isa = PBXGroup;
 			children = (
+				32B6B96B2672AB6E00F7B898 /* README.md */,
 				32B6B8F5267248B600F7B898 /* Feedback-SwiftUI-PreventFullscreenWindows */,
 				32B6B8F4267248B600F7B898 /* Products */,
 			);
@@ -57,11 +59,11 @@
 			children = (
 				32B6B8F6267248B600F7B898 /* Feedback_SwiftUI_PreventFullscreenWindowsApp.swift */,
 				32B6B8F8267248B600F7B898 /* ContentView.swift */,
+				32B6B90626724A5600F7B898 /* NSWindowReader.swift */,
 				32B6B8FA267248B800F7B898 /* Assets.xcassets */,
 				32B6B8FF267248B800F7B898 /* Info.plist */,
 				32B6B900267248B800F7B898 /* Feedback_SwiftUI_PreventFullscreenWindows.entitlements */,
 				32B6B8FC267248B800F7B898 /* Preview Content */,
-				32B6B90626724A5600F7B898 /* NSWindowReader.swift */,
 			);
 			path = "Feedback-SwiftUI-PreventFullscreenWindows";
 			sourceTree = "<group>";
